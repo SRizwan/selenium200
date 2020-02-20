@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fd28058-c673-402f-b384-0c455f875074" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Shah_Mahbub_Selenium" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XF28czPs5svU3SMFs7xSVChyRH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LetsKodeit/src/test" />
+      <recent name="$PROJECT_DIR$/SimpleMobile/src/test" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Deals" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/BrowserDriver" />
+      <recent name="$PROJECT_DIR$/Amazon/src/main/resources" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/databases" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java/reporting" />
+      <recent name="$PROJECT_DIR$/Generic/SqlDriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/rizwan/IdeaProjects/framework.piit/Shah_Mahbub_Selenium/LetsKodeit/src/test/resources/KodeRunner.xml">
+    <configuration name="TestSimpleDealsPage.AddDealsToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleMobile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Deals" />
+      <option name="MAIN_CLASS_NAME" value="Deals.TestSimpleDealsPage" />
+      <option name="METHOD_NAME" value="AddDealsToCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSimpleHomePage.testSearchInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleMobile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Deals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Home" />
+      <option name="MAIN_CLASS_NAME" value="Home.TestSimpleHomePage" />
+      <option name="METHOD_NAME" value="testSearchInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rizwan/IdeaProjects/framework.piit/Shah_Mahbub_Selenium/LetsKodeit/src/test/resources/KodeRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LetsKodeit" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/LetsKodeit/src/test/resources/KodeRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rizwan/IdeaProjects/framework.piit/Shah_Mahbub_Selenium/LetsKodeit/src/test/resources/KodeTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LetsKodeit" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/LetsKodeit/src/test/resources/KodeTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rizwan/IdeaProjects/framework.piit/Shah_Mahbub_Selenium/SimpleMobile/src/test/resources/SimpleTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SimpleMobile" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/SimpleMobile/src/test/resources/SimpleTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/rizwan/IdeaProjects/framework.piit/Shah_Mahbub_Selenium/LetsKodeit/src/test/resources/KodeRunner.xml" />
+        <item itemvalue="TestNG./Users/rizwan/IdeaProjects/framework.piit/Shah_Mahbub_Selenium/LetsKodeit/src/test/resources/KodeTestRunner.xml" />
+        <item itemvalue="TestNG./Users/rizwan/IdeaProjects/framework.piit/Shah_Mahbub_Selenium/SimpleMobile/src/test/resources/SimpleTestRunner.xml" />
+        <item itemvalue="TestNG.TestSimpleDealsPage.AddDealsToCart" />
+        <item itemvalue="TestNG.TestSimpleHomePage.testSearchInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fd28058-c673-402f-b384-0c455f875074" name="Default Changelist" comment="" />
+      <created>1580627363930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580627363930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="86" key="#Project_Structure" timestamp="1582093041151">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="319" y="86" key="#Project_Structure/0.23.1440.797@0.23.1440.797" timestamp="1581573577029" />
+    <state x="319" y="86" key="#Project_Structure/0.23.1440.801@0.23.1440.801" timestamp="1582093041151" />
+    <state x="485" y="314" width="469" height="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581822111655">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="485" y="314" width="469" height="280" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1581822111655" />
+    <state width="1396" height="195" key="GridCell.Tab.0.bottom" timestamp="1582170871379">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1396" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582155513525" />
+    <state width="1200" height="192" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1581849381309" />
+    <state width="1396" height="195" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1582170871378" />
+    <state width="1396" height="195" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1582170351777" />
+    <state width="1396" height="195" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1582155798310" />
+    <state width="1396" height="195" key="GridCell.Tab.0.center" timestamp="1582170871377">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1396" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582155513524" />
+    <state width="1200" height="192" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1581849381309" />
+    <state width="1396" height="195" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1582170871377" />
+    <state width="1396" height="195" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1582170351776" />
+    <state width="1396" height="195" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1582155798310" />
+    <state width="1396" height="195" key="GridCell.Tab.0.left" timestamp="1582170871377">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1396" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582155513524" />
+    <state width="1200" height="192" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1581849381308" />
+    <state width="1396" height="195" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1582170871377" />
+    <state width="1396" height="195" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1582170351776" />
+    <state width="1396" height="195" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1582155798309" />
+    <state width="1396" height="195" key="GridCell.Tab.0.right" timestamp="1582170871378">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state width="1396" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582155513525" />
+    <state width="1200" height="192" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1581849381309" />
+    <state width="1396" height="195" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1582170871378" />
+    <state width="1396" height="195" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1582170351776" />
+    <state width="1396" height="195" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1582155798310" />
+    <state x="220" y="60" key="SettingsEditor" timestamp="1582170929694">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="220" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1580627529474" />
+    <state x="220" y="60" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1582170929694" />
+    <state x="220" y="60" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1582167268199" />
+    <state x="96" y="118" key="new project wizard" timestamp="1582090939934">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="96" y="118" key="new project wizard/0.23.1440.797@0.23.1440.797" timestamp="1581572451415" />
+    <state x="96" y="118" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1582090939934" />
+    <state x="383" y="142" width="672" height="685" key="search.everywhere.popup" timestamp="1582148537536">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="383" y="141" width="672" height="678" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1581832012167" />
+    <state x="383" y="141" width="672" height="679" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1581976493482" />
+    <state x="383" y="142" width="672" height="685" key="search.everywhere.popup/0.23.1440.804@0.23.1440.804" timestamp="1582148537536" />
+  </component>
+</project>
